@@ -1,0 +1,66 @@
+
+body
+{
+	font-family: sans-serif;
+}
+
+.cuadro1
+{
+	height: 300px;
+	width: 230px;
+	text-align: center;
+	color: grey;
+	font-size: 15px;
+	background-color: green;
+	display: inline-block;
+}
+
+div.fa-paper-plane-o
+{
+	height: 100px;
+	width: 100px;
+}
+
+.cuadro2
+{
+	height: 300px;
+	width: 230px;
+	text-align: center;
+	color: grey;
+	font-size: 15px;
+	background-color: blue;
+	display: inline-block;
+}
+
+.cuadro3
+{
+	height: 300px;
+	width: 230px;
+	text-align: center;
+	color: grey;
+	font-size: 15px;
+	background-color: green;
+	display: inline-block;
+}
+
+.cuadro4
+{
+	height: 300px;
+	width: 230px;
+	text-align: center;
+	color: grey;
+	font-size: 15px;
+	background-color: blue;
+	display: inline-block;
+}
+
+.cuadro5
+{
+	height: 300px;
+	width: 230px;
+	text-align: center;
+	color: grey;
+	font-size: 15px;
+	background-color: green;
+	display: inline-block;
+}
